@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 Knowledge 
-React ![icons8-react-80](https://user-images.githubusercontent.com/68347411/217638413-0d41f7de-8bcd-4a5b-9903-86bfdfce85dc.png)
+
+React 
+![icons8-react-80](https://user-images.githubusercontent.com/68347411/217638413-0d41f7de-8bcd-4a5b-9903-86bfdfce85dc.png)
 
 
 
