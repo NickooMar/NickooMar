@@ -5,6 +5,8 @@
 - I’m interested in full stack web development.
 - I’m currently learning Nestjs - Nextjs - Docker 🌱
 
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
 
