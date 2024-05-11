@@ -2,7 +2,9 @@
 
 ### About me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Interested+in+Full-Stack+Development+%F0%9F%91%80)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=I%E2%80%99m+currently+learning+Nestjs+-+Nextjs+-+Docker+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ### Stats
