@@ -1,6 +1,3 @@
-![descarga](https://github.com/NickooMar/NickooMar/assets/68347411/3872cc07-45d3-4579-b166-30cf437dbf71)
-
-
 - 👋 Hi, I’m @NickooMar
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning MERN - GraphQL - React-Native
@@ -18,10 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=ChatGPT-Clone)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=GraphQL-Commerce-Login)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=MERN-GraphQL-Notes-Mongo-Docker)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickooMar&layout=compact)
-
 
 Knowledge
 ----------------------------------
