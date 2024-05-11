@@ -1,12 +1,6 @@
 ![descarga](https://github.com/NickooMar/NickooMar/assets/68347411/074648b8-92a2-488b-9186-e81d5b3ff88b)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+)](https://git.io/typing-svg)
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning MERN - GraphQL - React-Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-     Email - nicoo.marsili@gmail.com
-     Linkedin - https://www.linkedin.com/in/nicol%C3%A1s-marsili/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+;Interested+in+Full-Stack+Development+%F0%9F%91%80;I%E2%80%99m+currently+learning+Nestjs+-+Nextjs+-+Docker+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 - 📖 Portfolio: https://mnicolas.vercel.app/
 
