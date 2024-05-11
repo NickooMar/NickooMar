@@ -1,3 +1,5 @@
+![descarga](https://github.com/NickooMar/NickooMar/assets/68347411/074648b8-92a2-488b-9186-e81d5b3ff88b)
+
 - 👋 Hi, I’m @NickooMar
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning MERN - GraphQL - React-Native
