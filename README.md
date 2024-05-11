@@ -3,9 +3,8 @@
 ### About me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Interested+in+Full-Stack+Development+%F0%9F%91%80)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=I%E2%80%99m+currently+learning+Nestjs+-+Nextjs+-+Docker+%F0%9F%8C%B1)](https://git.io/typing-svg)
+- I’m interested in full stack web development.
+- I’m currently learning Nestjs - Nextjs - Docker 🌱
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
@@ -18,24 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=ChatGPT-Clone)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=GraphQL-Commerce-Login)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=MERN-GraphQL-Notes-Mongo-Docker)](https://github.com/anuraghazra/github-readme-stats)
-
-Knowledge
-----------------------------------
-
-NodeJs
-MongoDB
-MySQL
-React 
-React-Native
-GraphQL
-TailwindCSS
-Javascript
-CSS
-HMTL
-Bootstrap
-Git
-
-----------------------------------
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/68347411/217640302-1ed88640-b93f-4d5b-b7ad-c467b4d40c65.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/68347411/217640356-f95d43c5-c0a6-41b9-883e-3972916a901f.png)
