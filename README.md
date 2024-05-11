@@ -1,13 +1,12 @@
 ![descarga](https://github.com/NickooMar/NickooMar/assets/68347411/074648b8-92a2-488b-9186-e81d5b3ff88b)
 
-### About me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+)](https://git.io/typing-svg)
 - I’m interested in full stack web development.
 - I’m currently learning Nestjs - Nextjs - Docker 🌱
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF4NzJ3c3hncWVpbHUzZzI2eDh6aHpyOHNpZWVpZms1a3d6ZW8xNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-</div>
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
