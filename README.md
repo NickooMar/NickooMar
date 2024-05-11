@@ -8,7 +8,7 @@
 
 - 📖 Portfolio: https://mnicolas.vercel.app/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
 
 Knowledge
 ----------------------------------
