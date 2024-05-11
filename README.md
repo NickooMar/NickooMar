@@ -10,6 +10,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
 
+### Top repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NickooMar&repo=https://github.com/NickooMar/ChatGPT-Clone)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 Knowledge
 ----------------------------------
 
