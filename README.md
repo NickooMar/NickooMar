@@ -5,8 +5,9 @@
 - I’m interested in full stack web development.
 - I’m currently learning Nestjs - Nextjs - Docker 🌱
 
-[<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+[[<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 ](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhrYXJoeTMyaHJweHBtcnc0Ym1mMG9sZWc5N3A2NGF6dnh6ZWRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhrYXJoeTMyaHJweHBtcnc0Ym1mMG9sZWc5N3A2NGF6dnh6ZWRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
