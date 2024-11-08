@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&pause=1000&color=FFFFFF&multiline=true&random=false&width=435&lines=Hi%2C+I%E2%80%99m+%40NickooMar+%F0%9F%91%8B+)](https://git.io/typing-svg)
 - I’m interested in full stack web development.
-- I’m currently learning Nestjs - Nextjs - Docker 🌱
+- I’m currently learning Nestjs - Nextjs - Docker and Go 🌱
 
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickooMar&show_icons=true&theme=catppuccin_latte)
